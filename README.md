@@ -10,3 +10,4 @@ Instructions for use:
     1: Run the PC server and create a new Token
     2: Save a token in the Android App
     3: Contact the author (WeChat may be needed) to establish a link from the PC server to the Android app
+![WeChat](wechat-erweiman.jpg)
