@@ -9,3 +9,4 @@ PC服务端还可以对文件夹进行权限管理，使其他人可以看到自
     2：在Android App 中保存一个token
     3：联系作者（可能需要加微信） 开通：PC 服务端 到 Android app 的链接
 
+![微信二维码](wechat-erweiman.jpg)
