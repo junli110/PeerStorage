@@ -1,14 +1,22 @@
-[# PeerStorage
-The private NAS system employs P2P technology
+# PeerStorage - A Guide to the P2P-Based NAS System
 
-PeerStorage is a NAS system based on P2P technology.
-The main function is to enable direct connection from a mobile phone to a PC server via P2P technology.
-Then, backup the photos and files on your phone. On the phone, you can also browse the backup images and files on your computer.
-The PC server can also manage permissions for folders, allowing others to view the files uploaded by the user.
-Using P2P, direct connection between PC server and Android app is achieved
-Instructions for use:
-    1: Run the PC server and create a new Token
-    2: Save a token in the Android App
-    3: Contact the author (WeChat may be needed) to establish a link from the PC server to the Android app](https://github.com/)
+## 📋 Core Features Overview
+
+| Feature Module         | Description                                                                                                                              |
+| :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core Mechanism**     | Based on P2P technology, enables direct connection between Android devices and the PC server, eliminating the need for a central relay server. |
+| **Mobile Backup**      | The Android App can directly backup files like photos to the PC server.                                                                      |
+| **File Browsing**      | Browse pictures and files already backed up to the PC from the Android App.                                                                 |
+| **Permission Management** | The PC server can set access permissions for different folders, enabling partial file sharing.                                                 |
+| **Connection Authentication** | Authentication and connection between devices is managed through a Token.                                                                   |
+| **Activation Method**  | After generating a Token, it might be necessary to contact the author (e.g., via WeChat) to activate the direct connection from the PC server to the Android App. |
+
+## 🛠️ Usage Steps
+
+Based on the description, using this PeerStorage software roughly involves the following steps:
+
+1.  **Run the PC server and create a new Token**: First, run the server program on the PC acting as the storage server and generate a Token for authentication.
+2.  **Save the Token in the Android App**: Then, enter or save this Token in the Android App on the phone.
+3.  **Contact the author to activate the connection**: Finally, you may need to **contact the author** (perhaps via WeChat or other methods) to **activate** the direct connection channel from the PC server to the Android App. This step might involve backend configuration or authorization.
     
 ![WeChat](wechat-erweiman.jpg)
