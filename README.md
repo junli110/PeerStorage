@@ -1,4 +1,4 @@
-# PeerStorage
+[# PeerStorage
 The private NAS system employs P2P technology
 
 PeerStorage is a NAS system based on P2P technology.
@@ -9,5 +9,6 @@ Using P2P, direct connection between PC server and Android app is achieved
 Instructions for use:
     1: Run the PC server and create a new Token
     2: Save a token in the Android App
-    3: Contact the author (WeChat may be needed) to establish a link from the PC server to the Android app
+    3: Contact the author (WeChat may be needed) to establish a link from the PC server to the Android app](https://github.com/)
+    
 ![WeChat](wechat-erweiman.jpg)
